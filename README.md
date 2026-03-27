@@ -1,3 +1,7 @@
+# Notes: 
+go to docs->design->Ecosystem_Library_Refoundation.md 
+Need to update this repo
+
 # The Library
 
 A meta-skill for private-first distribution of agentics (skills, agents, and prompts) across agents, devices, and teams.
